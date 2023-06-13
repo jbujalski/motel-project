@@ -1,5 +1,5 @@
 <template>
-  <div class="sm:h-screen h-[calc(100vh_-_68px)] pb-4 px-4 sm:p-10">
+  <div class="lg:h-[90vh] h-[60vh]  pb-4 px-4 lg:p-10 lg:pb-8">
     <div class="relative w-full h-full overflow-hidden">
       <div class="relative w-full h-full max-w-full overflow-hidden">
         <transition name="slide-fade" mode="out-in">
